@@ -1,0 +1,9 @@
+com\example\journalApp\service\JournalEntryService.class
+com\example\journalApp\entity\JournalEntry.class
+com\example\journalApp\JournalApplication.class
+com\example\journalApp\controller\JournalEntryController.class
+com\example\journalApp\controller\UserController.class
+com\example\journalApp\repository\JournalEntryRepository.class
+com\example\journalApp\repository\UserRepository.class
+com\example\journalApp\service\UserService.class
+com\example\journalApp\entity\User.class

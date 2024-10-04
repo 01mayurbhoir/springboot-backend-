@@ -1,0 +1,4 @@
+24-09-16 12:51:00.982 [main] INFO  c.e.j.service.EmailServiceTests - Starting EmailServiceTests using Java 22.0.2 with PID 10336 (started by bhoir in C:\Users\bhoir\Downloads\Springboot\journalApp) 
+24-09-16 12:51:01.029 [main] INFO  c.e.j.service.EmailServiceTests - No active profile set, falling back to 1 default profile: "default" 
+24-09-16 12:51:03.534 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode. 
+24-09-16 12:51:03.675 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 134 ms. Found 3 MongoDB repository interfaces. 
